@@ -44,6 +44,8 @@ import collections
 import random 
 import csv
 import pandas as pd
+import pydot
+from IPython.display import Image, display
 from tqdm import tqdm_notebook, tnrange
 import pprint
 from graphviz import Graph
