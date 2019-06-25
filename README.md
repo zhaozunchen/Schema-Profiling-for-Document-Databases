@@ -30,11 +30,11 @@ You can lunch it through Anaconda Navigator (Windows).
 ## Install packages
 
 I reconmmend install packages through **Anaconda Prompt** (Windows) or **Terminal**(Linux). 
-*The following code cell is all packages you need to install.
-*Please search the package name in the search bar at https://anaconda.org/.
-*Click the correct package. 
-*You will find a command line that you need to enter to install those package. 
-*Please refer to https://github.com/cpcloud/ipython-autotime to install autotime package.
+* The following code cell is all packages you need to install.
+* Please search the package name in the search bar at https://anaconda.org/.
+* Click the correct package. 
+* You will find a command line that you need to enter to install those package. 
+* Please refer to https://github.com/cpcloud/ipython-autotime to install autotime package.
 
 ```sh
 %load_ext autotime
