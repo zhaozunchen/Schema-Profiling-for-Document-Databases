@@ -29,29 +29,13 @@ You can lunch it through Anaconda Navigator (Windows).
 
 ## Install packages
 
-I reconmmend install packages through **Anaconda Prompt** (Windows) or **Terminal**(Linux). 
-* The following code cell is all packages you need to install.
+I reconmmend install packages through the code provided in Jupyter notebook or manuly install through **Anaconda Prompt** (Windows) or **Terminal**(Linux). 
+* There are some packages already installed by default. The following packages are all extra packages you need to install.
+ * pymongo
+ * pydot
+ * graphviz
 * Please search the package name in the search bar at https://anaconda.org/.
 * Click the correct package. 
 * You will find a command line that you need to enter to install those package. 
 * Please refer to https://github.com/cpcloud/ipython-autotime to install autotime package.
 
-```sh
-%load_ext autotime
-import pymongo
-import json
-import copy
-import math
-import statistics
-import time
-import collections
-import random 
-import csv
-import pandas as pd
-import pydot
-from IPython.display import Image, display
-from tqdm import tqdm_notebook, tnrange
-import pprint
-from graphviz import Graph
-from random import shuffle
-```
