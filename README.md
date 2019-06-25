@@ -31,9 +31,9 @@ You can lunch it through Anaconda Navigator (Windows).
 
 I reconmmend install packages through the code provided in Jupyter notebook or manuly install through **Anaconda Prompt** (Windows) or **Terminal**(Linux). 
 * There are some packages already installed by default. The following packages are all extra packages you need to install.
- * pymongo
- * pydot
- * graphviz
+  * pymongo
+  * pydot
+  * graphviz
 * Please search the package name in the search bar at https://anaconda.org/.
 * Click the correct package. 
 * You will find a command line that you need to enter to install those package. 
