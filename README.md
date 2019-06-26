@@ -4,13 +4,13 @@
 This program is run in Jupyter Notebook. Please install Anaconda and all related packages. 
 
 ## Install Anaconda
-Please refer to Anaconda offical documentation to install Anaconda https://docs.anaconda.com/anaconda/install/windows/
+Please refer to Anaconda official documentation to install Anaconda https://docs.anaconda.com/anaconda/install/windows/
 
 ## Use Anaconda and jupyter notebook
 
-When you install Anaconda, it will also install jupyter notebook. Lunching jupyter notebook can be done in different ways:
+When you install Anaconda, it will also install jupyter notebook. Launching jupyter notebook can be done in different ways:
 You can lunch it through Anaconda Navigator (Windows).
-* Lunch it by Anaconda Prompt (Windows):
+* Launch it by Anaconda Prompt (Windows):
   * Open Anaconda Prompt
   * Type: 
   ```sh
@@ -18,7 +18,7 @@ You can lunch it through Anaconda Navigator (Windows).
   ```
   * hit Enter
   * wait jupyter notebook pop up
-* Lunch it by Terminal (Linux):
+* Launch it by Terminal (Linux):
   * Open Terminal
   * Type: 
   ```sh
