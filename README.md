@@ -58,8 +58,8 @@ Please install all request packages in order to run the program.
     * The first code cell bruilds the initial node
     * The second code cell is the driven methods which call necessery methods
     * The third code cell gives you some related informations like number of function calls
-* Visulization:
+* Visualization:
   * In this section, you need to run those code cells in order
   * You will get the final decision tree figure
-If you change your dataset, you don't havet to run all code cells, after run Load data section which load different dataset, run Run section to process the algorithm and Visulization section to get the decision tree figure.
+If you change your dataset, you don't havet to run all code cells, after run Load data section which load different dataset, run Run section to process the algorithm and Visualization section to get the decision tree figure.
 
