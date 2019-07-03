@@ -27,11 +27,13 @@ You can lunch it through Anaconda Navigator (Windows).
   * hit Enter
   * wait jupyter notebook pop up
 
-
+You will see a pop up website which host in local host.
 
 ## How to use?
-
-Please install all request packages in order to run the program.
+* Download research.ipynot
+* After you launch the jupyter notebook, Looking for the downloaded research.ipynote in the launched website
+* Click the research.ipy to open it.
+* In order to run a code cell, you should select that code cell and click Shift + Enter.
 * Import packages:
   * In this section, run the cell with all packages
 * Load data:
