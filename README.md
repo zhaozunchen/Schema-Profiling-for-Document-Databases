@@ -29,7 +29,7 @@ You can lunch it through Anaconda Navigator (Windows).
 
 ## Install packages
 
-I reconmmend install packages through the code provided in Jupyter notebook or manuly install through **Anaconda Prompt** (Windows) or **Terminal**(Linux). 
+I recommend install packages through the code provided in Jupyter notebook or manually install through **Anaconda Prompt** (Windows) or **Terminal**(Linux). 
 * There are some packages already installed by default. The following packages are all extra packages you need to install.
   * pymongo
   * pydot
