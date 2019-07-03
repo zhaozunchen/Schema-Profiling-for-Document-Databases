@@ -30,9 +30,10 @@ You can lunch it through Anaconda Navigator (Windows).
 You will see a pop up website which host in local host.
 
 ## How to use?
-* Download research.ipynb
+* Go to Github and click on "Clone or Download" button to download research.ipynb. Click on Download Zip and save the zip file in your local drive.
+* Looking for the zip file in your local file explorer. Unzip the zip file.
 * After you launch the jupyter notebook, Looking for the downloaded research.ipynb in the launched website
-* Click the research.ipy to open it.
+* Click the research.ipynb to open it.
 * In order to run a code cell, you should select that code cell and click Shift + Enter.
 * Import packages:
   * In this section, run the cell with all packages
