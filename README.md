@@ -30,8 +30,8 @@ You can lunch it through Anaconda Navigator (Windows).
 You will see a pop up website which host in local host.
 
 ## How to use?
-* Download research.ipynot
-* After you launch the jupyter notebook, Looking for the downloaded research.ipynote in the launched website
+* Download research.ipynb
+* After you launch the jupyter notebook, Looking for the downloaded research.ipynb in the launched website
 * Click the research.ipy to open it.
 * In order to run a code cell, you should select that code cell and click Shift + Enter.
 * Import packages:
